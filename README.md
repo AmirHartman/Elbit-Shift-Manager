@@ -1,1 +1,0 @@
-# Elbit-Shift-Manager
